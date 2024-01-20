@@ -37,3 +37,7 @@ NKRO_ENABLE = yes          # Enable N-Key Rollover
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
 ENCODER_MAP_ENABLE = yes
+
+
+# trying out caps word
+CAPS_WORD_ENABLE = yes
